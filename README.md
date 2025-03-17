@@ -8,6 +8,7 @@ Please note that no datasets are available directly because much of it exceeds G
 - der_eigens_lr models: comment out lines 468 through 489;
 - der_lr models: comment out lines 468 through 489 and 498 through 503;
 - eigens_lr models: comment out lines 468 through 495.
+Dataset generation WILL take a while!
 
 ### EDA
 - eda_session11.R: a brief exploration into the data's structure based on one session.
