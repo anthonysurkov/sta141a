@@ -2,6 +2,12 @@
 ## Anthony Surkov, 03.17.2025
 
 These are all of the files for the STA 141A project, including models, data on the models, data generated as part of feature collection, and all programs.
+Please note that no datasets are available directly because much of it exceeds GitHub's 100MB restriction. To generate datasets relevant to reported models...
+- full models: uncomment all features between lines 464 and 507;
+- no globals models: comment out lines 468 through 474;
+- der_eigens_lr models: comment out lines 468 through 489;
+- der_lr models: comment out lines 468 through 489 and 498 through 503;
+- eigens_lr models: comment out lines 468 through 495.
 
 ### EDA
 - eda_session11.R: a brief exploration into the data's structure based on one session.
