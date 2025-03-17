@@ -1,0 +1,2 @@
+load("/Users/green/Documents/ucd/sta141a/course_project/Data/session1.rds")
+load("/Users/green/Documents/ucd/sta141a/course_project/Data/test1.rds")

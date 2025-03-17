@@ -1,0 +1,22 @@
+For an informed project proposal... (due Jan 24th)
+Need to
+(a) Read the Nature paper in full + understand it
+(b) Read his code and directions in full + understand it
+(c) Understand the datasets holistically; what data it has, where it is, how it was made, etc.
+(d) Formulate a project proposal according to his requirements. Make it insightful and slightly
+    ambitious; I want to work with him following this
+
+Let's do (a) this weekend (due Jan 12th)
+(b) by Wednesday or so (due Jan 15th)
+(c) by Friday or so (due Jan 17th)
+(d) by next Friday (due Jan 24th)
+
+This allows a fair bit of buffer while encouraging proactivity.
+
+---
+
+Notes on the research
+
+- 2 broad ways in which the brain participates in choice (action selection):
+    - engagement in a task (action selection)
+    - choosing wrt the task (action initiation)
